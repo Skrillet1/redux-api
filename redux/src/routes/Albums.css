@@ -1,0 +1,12 @@
+.albums a:hover {
+    color: rgb(116, 133, 183);
+}
+.albums div {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 18px;
+}
+.albums a {
+    color: rgb(218, 87, 87);
+    text-decoration: none;
+}
